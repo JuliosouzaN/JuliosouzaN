@@ -7,7 +7,7 @@
 
 <div align="center">
   
-🔭 Eu sou desenvolvedor Back-end e atualmente estudo Java com spring.
+🔭 Eu sou desenvolvedor Back-end e atualmente estudo Spring com Java.
 
 💬 Sou entusiasta no desenvolvimento Java para APIs
 
