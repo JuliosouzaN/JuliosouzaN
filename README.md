@@ -9,9 +9,6 @@
   
 🔭 Eu sou desenvolvedor Back-end e atualmente estudo Java com spring.
 
-
-🌱 Também estou estudando Html, css e Javascript.
-
 💬 Sou entusiasta no desenvolvimento Java para APIs
 
 </div>
